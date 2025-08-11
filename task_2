@@ -1,0 +1,7 @@
+counter = 1
+total = 0
+while counter <= 50:
+    total+= counter
+    counter += 1
+
+print(f"the sum of integers 1 to 50 is: {total}")
